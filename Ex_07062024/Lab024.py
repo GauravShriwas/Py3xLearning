@@ -1,0 +1,5 @@
+# Escape Sequences in Python
+print("Hello \"World\"")
+print("Hello \nWorld")
+print("Hello \tWorld")
+print("Hello \bWorld")
