@@ -4,21 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30673723-7012-40b3-8dc2-62aeef051c3f" name="Changes" comment="Conditions and Loops">
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab082.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab083.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab084.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab086.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab087.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab088.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab089.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab090.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab091.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab092.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab093.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab094.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab095.py" afterDir="false" />
+    <list default="true" id="30673723-7012-40b3-8dc2-62aeef051c3f" name="Changes" comment="Tuple and Decorators">
+      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab108.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -286,7 +281,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719500002433</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Tuple and Decorators">
+      <option name="closed" value="true" />
+      <created>1721614664701</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721614664701</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -319,7 +322,8 @@
     <MESSAGE value="Revert &quot;Condition and Loops&quot;&#10;&#10;This reverts commit 145b9f70b1916167c19b5586eb1ab0a622a669c8." />
     <MESSAGE value="Revert &quot;Condition and Loops&quot;&#10;&#10;This reverts commit 145b9f70b1916167c19b5586eb1ab0a622a669c8." />
     <MESSAGE value="Conditions and Loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conditions and Loops" />
+    <MESSAGE value="Tuple and Decorators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tuple and Decorators" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
